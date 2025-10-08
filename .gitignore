@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.env.*
+
+# Node / JS / Expo / React
+node_modules/
+.expo/
+.expo-shared/
+build/
+dist/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Backups / local folders
+frontend_backup/
+frontend_fixed/
+*.log

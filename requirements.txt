@@ -1,0 +1,17 @@
+Django
+djangorestframework
+psycopg2-binary
+djangorestframework-simplejwt
+Pillow
+django-cors-headers
+stripe
+razorpay
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+python-dotenv
+django-debug-toolbar
+fastapi
+uvicorn
